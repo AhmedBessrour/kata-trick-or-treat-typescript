@@ -2,3 +2,4 @@
 **/*.js
 **/*.spec.js
 **/*.js.map
+.idea/
